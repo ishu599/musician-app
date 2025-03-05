@@ -35,4 +35,9 @@ module.exports = {
     lastName: 'Hansson',
     genre: 'Rock',
   },
+  Queen: {
+    firstName: 'Hanza',
+    lastName: 'Priya',
+    genre: 'Metal',
+  },
 };
